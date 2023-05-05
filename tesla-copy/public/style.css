@@ -5,17 +5,19 @@
 }
 
 body{
-    color:#171A20;
+    color: #FFFF;
     font-family: 'M PLUS 1p', sans-serif;
 }
 .banner-container {
+    color:#171A20;
     position: fixed;
     padding: 16px;
+    background-color: white;
     margin-inline-end: auto;
     margin-inline-start: auto;
     text-align: center!important;
     top: 0;
-    z-index: 1;
+    z-index: 0\1;
     width: 100%;
 }
 .tds-link {
@@ -37,7 +39,7 @@ body{
 header{
     display: grid;
     grid-template-columns: auto 1fr auto;
-    padding: 5px 20px;
+    padding: 16px 0px 0px 20px;
     position: fixed;
     top: 0;
     z-index:2;
@@ -66,5 +68,9 @@ header nav.right{
 
 section{
     height: 100vh;
-    border: 5px solid red;
+    background-size: cover;
+    background-position: center center;
+}
+section .content{
+    
 }
