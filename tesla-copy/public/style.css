@@ -5,7 +5,7 @@
 }
 
 body{
-    color: #FFFF;
+    color: #ffff;
     font-family: 'M PLUS 1p', sans-serif;
 }
 html{
@@ -214,10 +214,13 @@ aside button.close{
 .backdrop{
     display: none;
     position: fixed;
+    z-index: 3;
     inset: 0;
-    background-color: rgba(0, 0, 0, .35);
+    background-color: rgba(0, 0, 0, 0);
+    transition: background-color .4s ease;
     backdrop-filter: blur(5px);
 }
 .backdrop.active{
     display: block;
+    background-color: rgba(0, 0, 0, .35);
 }
