@@ -16,6 +16,11 @@ Este proyecto fue crado por María Marta Ramirez, consiste en un clon de la pág
 - 📱 **Responsive**: El diseño y la implementación son totalmente responsivos, lo que permite que la página se adapte y se vea correctamente en diferentes dispositivos y tamaños de pantalla.
 - 🌐 **Link de la Página Original**: Puedes visitar la página original de Tesla en el siguiente enlace: [https://www.tesla.com](https://www.tesla.com).
 
+## Estructura
+- Carpeta tesla-copy: donde se encuentra el proyecto de forma ordenada.
+- Carpeta public: donde se encuentra toda la estructura del html que se manda a llamar en el App.js. Ademas de los componente necesarios para el funcionamiento de la pagina, como imagenes, videos y el favicon.
+- Carpeta src: como lo indica su nombre donde va el source del proyecto, donde van los archivos Apps.js, Index.js y App.css donde se encuentran los estilos respetivos para la pagina. Ademas una carpeta dentro de este donde van los componentes necesarios como fonts.
+
 ## Archivos Principales
 - *App.js*: El archivo principal de la aplicación React que define el componente App que representa la estructura de la página de la aplicación clon de Tesla.
 - *index.js*: El archivo principal de entrada que renderiza el componente App en el elemento root del documento HTML.
