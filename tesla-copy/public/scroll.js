@@ -28,7 +28,7 @@ document.addEventListener('scroll', () => {
         }
     })
 
-    // Aplicar la clase "first-section" al primer section, header y logo
+    // Aplicar la clase first-section al primer section, header y logo
     const header = document.querySelector('header');
     const logo = document.querySelector('a.logo');
     if (document.lastCentered === 0) {
