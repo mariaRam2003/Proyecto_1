@@ -43,6 +43,7 @@ html{
 
 header.first-section{
     color: #fff;
+    transition: color 0s ease;
 }
 header{
     display: grid;
@@ -59,6 +60,9 @@ a.logo{
     width:100px;
     color: inherit;
 }
+a.logo.first-section {
+    transition: color 0s ease;
+  }
 header a{
     color: inherit;
 }
@@ -70,6 +74,7 @@ header nav a{
 }
 header nav a:hover{
     background: #0000001c;
+    
 }
 header nav.center{
     text-align: center;
@@ -82,6 +87,7 @@ section.first-section h1,
 section.first-section p {
     color: #fff;
     font-weight: 500;
+    transition: color 0s ease;
 }
 section{
     height: 100vh;
