@@ -1,7 +1,7 @@
 # Proyecto 1 — Sistemas y Tecnologías Web UVG
 
 ## Introducción
-Este proyecto fue crado por María Marta Ramirez, consiste en un clon de la página principal de Tesla, desarrollado como parte del Proyecto 1 del Curso de Sistemas y Tecnologías Web de la Universidad del Valle de Guatemala. Con el objetivo de poner en práctica aptitudes aprendidas en clase relacionadas con el stack de desarrollo de JavaScript.
+Este proyecto fue crado por María Marta Ramirez, consiste en un clon de la página principal de Tesla, desarrollado como parte del Proyecto 1 del Curso de Sistemas y Tecnologías Web de la Universidad del Valle de Guatemala. Con el objetivo de poner en práctica aptitudes aprendidas en clase relacionadas con el stack de desarrollo de JavaScript. Para observar el proyecto LIVE dirigirse a: https://tesla-clone-2023.web.app
 
 ## Tecnologías Implementadas
 - ⚛ **React**: Utilizado para construir la interfaz de usuario y manejar la lógica del proyecto.
@@ -10,7 +10,6 @@ Este proyecto fue crado por María Marta Ramirez, consiste en un clon de la pág
 - 📄 **JavaScript**: Se utilizaron scripts de JavaScript en los archivos HTML para agregar interactividad y funcionalidad.
 - 📦 **package.json**: Archivo de configuración que define las dependencias y scripts del proyecto.
 - 🌐 **Google Fonts**: Se utilizaron fuentes de Google Fonts para estilizar el texto en la página.
-- 🌐 **Server Side Rendering**: Se implementó el renderizado del lado del servidor para mejorar el rendimiento y la velocidad de carga de la página.
 
 ## Features
 - 📱 **Responsive**: El diseño y la implementación son totalmente responsivos, lo que permite que la página se adapte y se vea correctamente en diferentes dispositivos y tamaños de pantalla.
