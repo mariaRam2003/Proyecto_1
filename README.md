@@ -27,8 +27,21 @@ Este proyecto fue crado por María Marta Ramirez, consiste en un clon de la pág
 - *App.css*: El archivo principal de la aplicación React que define el componente App que representa la estructura de la página de la aplicación clon de Tesla.
 - *index.html*: El archivo HTML principal que estructura la página del proyecto.
 
+
 ## Instrucciones de Ejecución
-1. Clona el repositorio en tu máquina local usando `https://github.com/mariaRam2003/Proyecto_1.git`.
-2. Abre una terminal en el directorio del proyecto `cs tesla-copy`.
-3. Ejecuta el comando `npm install` para instalar las dependencias.
-4. Ejecuta el comando `npm start` para iniciar la aplicación en el servidor de desarrollo.
+1. Clona el repositorio en tu máquina local usando:
+```javascript
+https://github.com/mariaRam2003/Proyecto_1.git
+```
+2. Abre una terminal en el directorio del proyecto con este comando:
+```javascript
+cs tesla-copy
+```
+3. Ejecuta el comando el siguiente comando para instalar las dependencias:
+```javascript
+npm install
+```
+4. Ejecuta el comando el siguiente comando para iniciar la aplicación en el servidor de desarrollo:
+```javascript
+npm start
+```
